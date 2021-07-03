@@ -1,8 +1,10 @@
-Start SW programming through Python language initially.
+# Python tutorials
 
-Go through tutorials to learn python language by "Jump to Python" tutorial.
+- Start SW programming through Python language initially.
 
-Link : https://wikidocs.net/book/1
+- Go through tutorials to learn python language by "Jump to Python" tutorial.
+
+  Link : https://wikidocs.net/book/1
 
 ![img](./img.png)
 
